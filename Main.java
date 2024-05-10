@@ -1,5 +1,4 @@
 public class Main {
-    // 计算两点之间的距离的平方
     public static double distanceSquared(Point p1, Point p2) {
         return (p1.x - p2.x) * (p1.x - p2.x) + (p1.y - p2.y) * (p1.y - p2.y);
     }
