@@ -49,7 +49,6 @@ public class Main {
                 new Point(1, 9),
                 new Point(9, 1),
                 new Point(9, 9),
-                new Point(0, 10),
 
         };
 
