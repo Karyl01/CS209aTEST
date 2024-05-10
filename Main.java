@@ -4,7 +4,6 @@ public class Main {
         return (p1.x - p2.x) * (p1.x - p2.x) + (p1.y - p2.y) * (p1.y - p2.y);
     }
 
-    // 暴力搜索最近点对
     public static PointPair findClosestPair(Point[] points) {
         double minDistance = Double.MAX_VALUE;
         PointPair closestPair = null;
